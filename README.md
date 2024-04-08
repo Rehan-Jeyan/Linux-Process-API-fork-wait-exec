@@ -42,6 +42,7 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
+![image](https://github.com/Rehan-Jeyan/Linux-Process-API-fork-wait-exec/assets/166362473/0f36a4e6-1edf-406e-8066-c89bedcd59ba)
 
 
 
@@ -107,7 +108,7 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
-
+![image](https://github.com/Rehan-Jeyan/Linux-Process-API-fork-wait-exec/assets/166362473/488690b5-6423-4e6e-88e0-3aeb0acc0f55)
 
 
 
